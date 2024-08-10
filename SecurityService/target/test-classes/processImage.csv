@@ -1,0 +1,4 @@
+testNo
+imageContainingCatDetectedAndSystemArmed_changeToAlarmStatus
+noCatImageIdentifiedAndSensorsAreInactive_changeToAlarmStatus
+updateSensors_systemArmed_deactivateAllSensors
